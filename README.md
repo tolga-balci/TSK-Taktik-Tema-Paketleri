@@ -8,7 +8,7 @@ Temalar, askeri gerçekçilik ile komut satırı okunabilirliğini, kontrastın�
 
 ## 🎖️ Paket İçeriğindeki Temalar
 
-| Tema Adı (JSON ID) | Operasyonel Konsept ve İlham Kaynağı | Tasarım Modu |
+| Tema Adı | Operasyonel Anlayış ve İlham Kaynağı | Tasarım Modu |
 | :--- | :--- | :--- |
 | **TSK Kara Kuvvetleri Nano** | TÜBİTAK iş birliğiyle geliştirilen resmi TSK Nano-Kamuflaj deseni. Gri-yeşil, kum-haki ve toprak kahverengi renklerini içerir. | Koyu Mod (Dark) |
 | **TSK Deniz Kuvvetleri Mavi** | Dz.K.K. üniforma tasarımları, SAT/SAS dijital deniz kamuflajları ve savaş gemisi mavi-gri (haze-gray) renklerini içerir. | Koyu Mod (Dark) |
@@ -216,4 +216,4 @@ Eğer indirmek isterseniz depomdaki /JSON dizini altından ilgili JSON dosyalar�
     "brightYellow": "#F39C12"
 }
 ```
-![Bayraktar Taktik])(/Grafikler/Bayraktar-Taktik.png)
+![Bayraktar Taktik](/Grafikler/Bayraktar-Taktik.png)
