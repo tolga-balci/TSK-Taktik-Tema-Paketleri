@@ -1,0 +1,23 @@
+{
+    "name": "TSK Deniz Kuvvetleri Mavi",
+    "cursorColor": "#4EA8DE",
+    "selectionBackground": "#1D2D44",
+    "background": "#0D131A",
+    "foreground": "#E1E5EB",
+    "black": "#1A232E",
+    "blue": "#214E75",
+    "cyan": "#4A90E2",
+    "green": "#2B7A78",
+    "purple": "#52677A",
+    "red": "#8B2635",
+    "white": "#F8F9FA",
+    "yellow": "#E5A93C",
+    "brightBlack": "#2E3D52",
+    "brightBlue": "#3A7CA5",
+    "brightCyan": "#70A6FF",
+    "brightGreen": "#3AA6A3",
+    "brightPurple": "#708090",
+    "brightRed": "#B23B4E",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#F4D03F"
+}

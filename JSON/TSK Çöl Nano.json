@@ -1,0 +1,23 @@
+{
+    "name": "TSK Col Nano",
+    "cursorColor": "#D9A066",
+    "selectionBackground": "#8B7355",
+    "background": "#1F1B16",
+    "foreground": "#EEDC82",
+    "black": "#3A322A",
+    "blue": "#857560",
+    "cyan": "#C5B358",
+    "green": "#9F815B",
+    "purple": "#A67B5B",
+    "red": "#8C4F43",
+    "white": "#F4E3B1",
+    "yellow": "#D2B48C",
+    "brightBlack": "#52463B",
+    "brightBlue": "#9E8E77",
+    "brightCyan": "#DEC974",
+    "brightGreen": "#BC9B6A",
+    "brightPurple": "#C29372",
+    "brightRed": "#A86557",
+    "brightWhite": "#FFF5D6",
+    "brightYellow": "#E6C280"
+}

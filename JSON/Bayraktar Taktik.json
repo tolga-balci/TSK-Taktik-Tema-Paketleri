@@ -1,0 +1,23 @@
+{
+    "name": "Bayraktar Taktik",
+    "cursorColor": "#F39C12",
+    "selectionBackground": "#2C3E50",
+    "background": "#1A1D20",
+    "foreground": "#E5E8E8",
+    "black": "#2B3035",
+    "blue": "#34495E",
+    "cyan": "#1ABC9C",
+    "green": "#2ECC71",
+    "purple": "#7D3C98",
+    "red": "#C0392B",
+    "white": "#BDC3C7",
+    "yellow": "#D35400",
+    "brightBlack": "#4F565E",
+    "brightBlue": "#5D6D7E",
+    "brightCyan": "#48C9B0",
+    "brightGreen": "#58D68D",
+    "brightPurple": "#9B59B6",
+    "brightRed": "#E74C3C",
+    "brightWhite": "#F4F6F6",
+    "brightYellow": "#F39C12"
+}

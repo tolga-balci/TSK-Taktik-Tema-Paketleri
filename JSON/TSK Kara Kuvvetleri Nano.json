@@ -1,0 +1,23 @@
+{
+    "name": "TSK Kara Kuvvetleri Nano",
+    "cursorColor": "#D0A97E",
+    "selectionBackground": "#4E5443",
+    "background": "#1E1F1A",
+    "foreground": "#E0DCD3",
+    "black": "#2A2C24",
+    "blue": "#5D6353",
+    "cyan": "#8A947E",
+    "green": "#465239",
+    "purple": "#7A6855",
+    "red": "#7E4E43",
+    "white": "#D9D6CE",
+    "yellow": "#AC926D",
+    "brightBlack": "#3D4135",
+    "brightBlue": "#7A8270",
+    "brightCyan": "#A3B096",
+    "brightGreen": "#5F704E",
+    "brightPurple": "#96816C",
+    "brightRed": "#A16355",
+    "brightWhite": "#F2EFE9",
+    "brightYellow": "#C7AB82"
+}

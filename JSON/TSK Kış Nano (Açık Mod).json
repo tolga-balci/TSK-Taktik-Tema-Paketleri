@@ -1,0 +1,23 @@
+{
+    "name": "TSK Kis Nano",
+    "cursorColor": "#2C3E50",
+    "selectionBackground": "#CBD5E1",
+    "background": "#F4F7F6",
+    "foreground": "#2A2F35",
+    "black": "#3A4146",
+    "blue": "#6C7A89",
+    "cyan": "#7B9095",
+    "green": "#5E6B65",
+    "purple": "#8A7D75",
+    "red": "#9E4A42",
+    "white": "#FFFFFF",
+    "yellow": "#B59975",
+    "brightBlack": "#4F5B62",
+    "brightBlue": "#8FA3B5",
+    "brightCyan": "#99AAB0",
+    "brightGreen": "#798A81",
+    "brightPurple": "#A3968E",
+    "brightRed": "#BA5A50",
+    "brightWhite": "#F8FAFC",
+    "brightYellow": "#CCA677"
+}

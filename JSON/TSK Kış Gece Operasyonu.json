@@ -1,0 +1,23 @@
+{
+    "name": "TSK Kis Gece Operasyonu",
+    "cursorColor": "#E2E8F0",
+    "selectionBackground": "#334155",
+    "background": "#14171A",
+    "foreground": "#EAF0F1",
+    "black": "#1E2326",
+    "blue": "#4F6272",
+    "cyan": "#5C768D",
+    "green": "#4D5B54",
+    "purple": "#736861",
+    "red": "#943D3D",
+    "white": "#D1DCDA",
+    "yellow": "#9A8161",
+    "brightBlack": "#323A3E",
+    "brightBlue": "#6C8296",
+    "brightCyan": "#7CA1C1",
+    "brightGreen": "#657A6F",
+    "brightPurple": "#8C7E76",
+    "brightRed": "#B54F4F",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#BAA082"
+}
