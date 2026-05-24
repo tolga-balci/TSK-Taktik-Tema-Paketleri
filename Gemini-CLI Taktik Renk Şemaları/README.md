@@ -78,11 +78,11 @@ Aşağıda, her temanın örnek görünümlerini inceleyebilirsiniz:
 
 ![Hava Kuvvetleri](/Grafikler/gemini-cli-TSK-Hava-Kuvvetleri.png)
 
-- ``
+- `gemini-cli - TSK Hava Kuvvetleri - KAAN Stealth.json` - KAAN ve Anka-3'ün radar sönümleyici (RAM) gövde titanyum grisi, karbon mavisinin mat gece görüş yeşiliyle uyumu.
 
 ![Hava Kuvvetleri KAAN Stealth](/Grafikler/gemini-cli-TSK-Hava-Kuvvetleri-Kaan-Stealth.png)
 
-- 
+- `gemini-cli - TSK Hava Kuvvetleri Kızılelma Avionics.json` - Kızılelma'nın otonom görev bilgisayarı ekranları ve radar kompozit gövde fümelerinden ilham alan mat amber ve yumuşatılmış kemik tonları.
 
 ![Hava Kuvvetleri Kızılelma Avionics](/Grafikler/gemini-cli-TSK-Hava-Kuvvetleri-Kızılelma-Avionics.png)
 
