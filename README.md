@@ -11,8 +11,6 @@ Bu projenin temel amacı terminal çerçevelerini ve `gemini-cli` gibi terminal 
 ---
 ## 🎖️ Paket İçeriğindeki Temalar
 
-
-
 | Tema Adı                             | Operasyonel Anlayış ve İlham Kaynağı                                                                                                                                           | Tasarım Modu     |
 | :----------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
 | **TSK Kara Kuvvetleri Nano**         | TÜBİTAK iş birliğiyle geliştirilen resmi TSK Nano-Kamuflaj deseni. Gri-yeşil, kum-haki ve toprak kahverengi renklerini içerir.                                                 | Koyu Mod (Dark)  |
