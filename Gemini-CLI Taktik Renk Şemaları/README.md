@@ -78,7 +78,7 @@ Aşağıda, her temanın örnek görünümlerini inceleyebilirsiniz:
 
 ![Hava Kuvvetleri](/Grafikler/gemini-cli-TSK-Hava-Kuvvetleri.png)
 
-- `gemini-cli - TSK Hava Kuvvetleri - KAAN Stealth.json` - Milli Muharip Uçak KAAN ve Anka-3'ün radar sönümleyici (RAM) gövde titanyum grisi, karbon mavisinin mat gece görüş yeşiliyle uyumu.
+- `gemini-cli - TSK Hava Kuvvetleri - KAAN Stealth.json` - KAAN ve Anka-3'ün radar sönümleyici (RAM) gövde titanyum grisi, karbon mavisinin mat gece görüş yeşiliyle uyumu.
 
 ![Hava Kuvvetleri KAAN Stealth](/Grafikler/gemini-cli-TSK-Hava-Kuvvetleri-Kaan-Stealth.png)
 
@@ -88,4 +88,4 @@ Aşağıda, her temanın örnek görünümlerini inceleyebilirsiniz:
 
 - `gemini-cli - Bayraktar Taktik.json` - Baykar İHA/SİHA sistem arayüz ve gövde renkleri.
 
-![Bayraktar Taktik](Grafikler/gemini-cli-Bayraktar-Taktik.png)
+![Bayraktar Taktik](/Grafikler/gemini-cli-Bayraktar-Taktik.png)

@@ -28,15 +28,15 @@ Bu klasör, Windows Terminal uygulamanıza doğrudan entegre edebileceğiniz, TS
 
 - `Windows Terminal-TSK-Hava-Kuvvetleri.json` - Geleneksel taktik havacılık grileri ve uzun süreli kullanımlarda gözü dinlendiren soft aviyonik kokpit yeşili.
 
-![Hava Kuvvetleri](/Grafikler/fastfetch-TSK-Hava-Kuvvetleri.png)
+![Hava Kuvvetleri](/Grafikler/Fastfetch-TSK-Hava-Kuvvetleri.png)
 
 - `Windows Terminal - Hava Kuvvetleri - KAAN Stealth.json` - Milli Muharip Uçak KAAN ve Anka-3'ün radar sönümleyici (RAM) gövde titanyum grisi, karbon mavisinin mat gece görüş yeşiliyle uyumu.
 
-![KAAN Stealth](/Grafikler/fastfetch-TSK-Hava-Kuvvetleri-Kaan-Stealth.png)
+![KAAN Stealth](/Grafikler/Fastfetch-TSK-Hava-Kuvvetleri-KAAN-Stealth.png)
 
 - `Windows Terminal - Hava Kuvvetleri - Kızılelma Avionics.json` - Kızılelma'nın otonom görev bilgisayarı ekranları ve radar kompozit gövde fümelerinden ilham alan mat amber ve yumuşatılmış kemik tonları.
 
-![Kızılelma Avionics](/Grafikler/fastfetch-TSK-Hava-Kuvvetleri-Kızılelma-Avionics.png)
+![Kızılelma Avionics](/Grafikler/Fastfetch-TSK-Hava-Kuvvetleri-Kızılelma-Avionics.png)
 
 * `Windows Terminal - Bayraktar Taktik.json` - Baykar İHA/SİHA sistem arayüz ve gövde renkleri.
 
