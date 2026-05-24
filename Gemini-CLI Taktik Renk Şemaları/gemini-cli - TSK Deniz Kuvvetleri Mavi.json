@@ -1,0 +1,25 @@
+{
+  "name": "TSK Deniz Kuvvetleri Mavi",
+  "text": {
+    "primary": "#E1E5EB",
+    "secondary": "#F8F9FA",
+    "accent": "#4A90E2",
+    "link": "#3A7CA5"
+  },
+  "background": {
+    "primary": "#0D131A",
+    "diff": {
+      "added": "#2B7A78",
+      "removed": "#8B2635"
+    }
+  },
+  "border": {
+    "default": "#214E75",
+    "focused": "#70A6FF"
+  },
+  "status": {
+    "success": "#3AA6A3",
+    "warning": "#E5A93C",
+    "error": "#B23B4E"
+  }
+}

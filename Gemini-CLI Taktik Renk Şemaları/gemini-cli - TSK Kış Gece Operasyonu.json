@@ -1,0 +1,25 @@
+{
+  "name": "TSK Kış Gece Operasyonu",
+  "text": {
+    "primary": "#EAF0F1",
+    "secondary": "#D1DCDA",
+    "accent": "#5C768D",
+    "link": "#6C8296"
+  },
+  "background": {
+    "primary": "#14171A",
+    "diff": {
+      "added": "#4D5B54",
+      "removed": "#943D3D"
+    }
+  },
+  "border": {
+    "default": "#4F6272",
+    "focused": "#5C768D"
+  },
+  "status": {
+    "success": "#657A6F",
+    "warning": "#9A8161",
+    "error": "#943D3D"
+  }
+}

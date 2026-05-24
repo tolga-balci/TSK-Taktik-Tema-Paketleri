@@ -1,0 +1,25 @@
+{
+  "name": "TSK Hava Kuvvetleri",
+  "text": {
+    "primary": "#D1D9E0",
+    "secondary": "#9AA5B1",
+    "accent": "#00FFC4",
+    "link": "#52758A"
+  },
+  "background": {
+    "primary": "#161A1F",
+    "diff": {
+      "added": "#00A877",
+      "removed": "#9A3E3E"
+    }
+  },
+  "border": {
+    "default": "#3B4A5A",
+    "focused": "#00FFC4"
+  },
+  "status": {
+    "success": "#00FFC4",
+    "warning": "#B59E5B",
+    "error": "#BD5555"
+  }
+}

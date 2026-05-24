@@ -1,0 +1,25 @@
+{
+  "name": "TSK Kara Kuvvetleri Nano",
+  "text": {
+    "primary": "#E0DCD3",
+    "secondary": "#D9D6CE",
+    "accent": "#8A947E",
+    "link": "#7A8270"
+  },
+  "background": {
+    "primary": "#1E1F1A",
+    "diff": {
+      "added": "#465239",
+      "removed": "#7E4E43"
+    }
+  },
+  "border": {
+    "default": "#5D6353",
+    "focused": "#A3B096"
+  },
+  "status": {
+    "success": "#5F704E",
+    "warning": "#AC926D",
+    "error": "#A16355"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Bayraktar Taktik",
+  "text": {
+    "primary": "#E5E8E8",
+    "secondary": "#BDC3C7",
+    "accent": "#1ABC9C",
+    "link": "#5D6D7E"
+  },
+  "background": {
+    "primary": "#1A1D20",
+    "diff": {
+      "added": "#2ECC71",
+      "removed": "#C0392B"
+    }
+  },
+  "border": {
+    "default": "#34495E",
+    "focused": "#48C9B0"
+  },
+  "status": {
+    "success": "#58D68D",
+    "warning": "#D35400",
+    "error": "#E74C3C"
+  }
+}

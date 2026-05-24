@@ -1,39 +1,44 @@
 # TSK Taktik Terminal ve Ortam Temaları Paketi
 
-Bu paket, **Türk Silahlı Kuvvetleri (TSK)** bünyesinde kullanılan resmi kamuflaj desenleri, renk kodları ve **Baykar Bayraktar İHA/SİHA** yer kontrol istasyonu arayüzleri esas alınarak hazırlanmış taktik renk profillerini ve ortam yapılandırmalarını içerir. Bu projenin temel amacı terminal çerçevelerini ve `gemini-cli` gibi terminal tabanlı yapay zeka/markdown motoru çıktılarını askeri gerçekçilik ile yüksek komut satırı okunabilirliğine uygun şekilde senkronize etmektir. 
+Bu paket, **Türk Silahlı Kuvvetleri (TSK)** bünyesinde kullanılan resmi kamuflaj desenleri, renk kodları ve **Baykar Bayraktar İHA/SİHA** yer kontrol istasyonu arayüzleri esas alınarak hazırlanmış taktik renk profillerini ve ortam yapılandırmalarını içerir. 
+
+Bu projenin temel amacı terminal çerçevelerini ve `gemini-cli` gibi terminal tabanlı yapay zeka/markdown motoru çıktılarını askeri gerçekçilik ile yüksek komut satırı okunabilirliğine uygun şekilde senkronize etmektir. 
 
 > Temalar, askeri gerçekçilik ile komut satırı okunabilirliğini, kontrastını ve taranabilirliğini en üst düzeyde tutacak şekilde optimize edilmiştir.
 
 > Temalar Milli Savunma, TSK ve yerli havacılık operasyon estetiğine uygun olarak geliştirilmiştir.
----
 
+---
 ## 🎖️ Paket İçeriğindeki Temalar
 
 
 
-| Tema Adı | Operasyonel Anlayış ve İlham Kaynağı | Tasarım Modu |
-| :--- | :--- | :--- |
-| **TSK Kara Kuvvetleri Nano** | TÜBİTAK iş birliğiyle geliştirilen resmi TSK Nano-Kamuflaj deseni. Gri-yeşil, kum-haki ve toprak kahverengi renklerini içerir. | Koyu Mod (Dark) |
-| **TSK Deniz Kuvvetleri Mavi** | Dz.K.K. üniforma tasarımları, SAT/SAS dijital deniz kamuflajları ve savaş gemisi mavi-gri (haze-gray) renklerini içerir. | Koyu Mod (Dark) |
-| **TSK Çöl Nano** | Sınır ötesi, yüksek rakımlı kurak bölge ve çöl operasyonlarında kullanılan pikselize kum, pembe-haki ve koyu çöl kahvesi renklerini içerir. | Koyu Mod (Dark) |
-| **TSK Kış Nano** | Yüksek irtifa kış arama/kurtarma ve dağ komando operasyonları için geliştirilen, alpin beyazını donuk mavi ve kaya gölgeleriyle harmanlayan yüksek kontrastlı renkleri içerir. | Açık Mod (Light) |
-| **TSK Kış Gece Operasyonu** | Kış dağ operasyonlarının gece safhası düşünülerek hazırlanan, terminali buzul grisi ve donmuş granit gölgelerine bürüyen renkleri içerir. | Koyu Mod (Dark) |
-| **Bayraktar Taktik** | Bayraktar TB2 ve Akıncı TİHA gövde renkleri (mat kompozit gri), telemetri kehribarı, lazer hedefleme turuncusu ve HUD arayüz mavisi (cyan) renklerini içerir. | Koyu Mod (Dark) |
+| Tema Adı                             | Operasyonel Anlayış ve İlham Kaynağı                                                                                                                                           | Tasarım Modu     |
+| :----------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------- |
+| **TSK Kara Kuvvetleri Nano**         | TÜBİTAK iş birliğiyle geliştirilen resmi TSK Nano-Kamuflaj deseni. Gri-yeşil, kum-haki ve toprak kahverengi renklerini içerir.                                                 | Koyu Mod (Dark)  |
+| **TSK Deniz Kuvvetleri Mavi**        | Dz.K.K. üniforma tasarımları, SAT/SAS dijital deniz kamuflajları ve savaş gemisi mavi-gri (haze-gray) renklerini içerir.                                                       | Koyu Mod (Dark)  |
+| **TSK Çöl Nano**                     | Sınır ötesi, yüksek rakımlı kurak bölge ve çöl operasyonlarında kullanılan pikselize kum, pembe-haki ve koyu çöl kahvesi renklerini içerir.                                    | Koyu Mod (Dark)  |
+| **TSK Kış Nano**                     | Yüksek irtifa kış arama/kurtarma ve dağ komando operasyonları için geliştirilen, alpin beyazını donuk mavi ve kaya gölgeleriyle harmanlayan yüksek kontrastlı renkleri içerir. | Açık Mod (Light) |
+| **TSK Kış Gece Operasyonu**          | Kış dağ operasyonlarının gece safhası düşünülerek hazırlanan, terminali buzul grisi ve donmuş granit gölgelerine bürüyen renkleri içerir.                                      | Koyu Mod (Dark)  |
+| **Bayraktar Taktik**                 | Bayraktar TB2 ve Akıncı TİHA gövde renkleri (mat kompozit gri), telemetri kehribarı, lazer hedefleme turuncusu ve HUD arayüz mavisi (cyan) renklerini içerir.                  | Koyu Mod (Dark)  |
+| **TSK Hv.K.K. - KAAN Stealth**       | MMU KAAN radar sönümleyici titanyum gövde kaplaması ve gece görüş mat yeşili renklerini içerir                                                                                 | Koyu Mod (Dark)  |
+| **TSK Hv.K.K. - Kızılelma Avionics** | Kızılelma otonom uçuş telemetri ekranları, mat havacılık kehribarı ve kompozit füme renklerini içerir.                                                                         | Koyu Mod (Dark)  |
 
 ---
 
-## 📂 Depo Dizin Yapısı ve Alt Kılavuzlar
+## 📂 Depo Dizin Yapısı ve Kurulum Kılavuzları
 
 Proje mimarisi modüler olarak tasarlanmıştır. Kurulum adımları ve ilgili ham dosyalara erişmek için aşağıdaki dizin bağlantılarını kullanabilirsiniz:
-### 💻 1. Windows Terminal Renk Şemaları
+### 1. Windows Terminal Renk Şemaları4
 * [[Windows Terminal Taktik Renk Şemaları]] 
 * Windows Terminal `settings.json` profiline eklenebilecek bağımsız `.json` şemalarını ve terminal içi kurulum adımlarını içerir.
 
-### 🤖 2. Gemini-CLI & Ortam Değişkeni Entegrasyonları
+### 2. Gemini-CLI & Ortam Değişkeni Entegrasyonları
 * [[Gemini-CLI]]
 * `gemini-cli` ve diğer markdown tabanlı terminal CLI araçlarının renk düzeninizi ezmesini engellemek için gerekli olan **24-bit TrueColor (`$COLORTERM`)** ortam yapılandırma seçeneklerini (WSL2, PowerShell, CMD) içerir.
 
-
+### 3. Grafik Varlıkları (`/Grafikler`)
+* Temaların terminal üzerindeki duruşunu, renk kontrast kalitesini ve taktiksel canlılığını gösteren tüm `.png` ekran görüntülerini barındıran merkezi havuz.
 ## 📥 Hızlı Kurulum (Git CLI)
 
 Bu depoyu makinenize klonlamak için:

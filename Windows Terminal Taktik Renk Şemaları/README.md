@@ -2,15 +2,13 @@
 
 Bu klasör, Windows Terminal uygulamanıza doğrudan entegre edebileceğiniz, TSK ve Bayraktar askeri renk paletlerine ait bağımsız `.json` şemalarını içerir.
 
-## 📂 Klasör İçeriği
+> Farklı ekran görüntüleri için Grafikler dizini altındaki `gemini-cli` ile başlayan dosya isimlerindeki ekran görüntülerine bakabilirsiniz.
+
+## Dizin İçeriği ve Tema Önizlemeleri
 
 * `Windows Terminal - TSK Kara Kuvvetleri Nano.json` - Kara Kuvvetleri piksel kamuflaj renkleri.
 
 ![TSK  Kara Kuvvetleri Nano](/Grafikler/Fastfetch-TSK-Kara-Kuvvetleri-Nano.png)
-
-* `Windows Terminal - TSK Deniz Kuvvetleri Mavi.json` - Deniz Kuvvetleri ve SAT/SAS marin renkleri.
-
-![TSK Deniz Kuvvetleri Mavi](/Grafikler/Fastfetch-TSK-Deniz-Kuvvetleri-Mavi.png)
 
 * `Windows Terminal - TSK Çöl Nano.json` - Güneydoğu ve sınır ötesi kurak bölge renkleri.
 
@@ -24,7 +22,23 @@ Bu klasör, Windows Terminal uygulamanıza doğrudan entegre edebileceğiniz, TS
 
 ![TSK Kış Gece Operasyonu](/Grafikler/Fastfetch-TSK-Kış-Gece-Operasyonu.png)
 
-* `Windows Terminal - Bayraktar Taktik` - Baykar İHA/SİHA sistem arayüz ve gövde renkleri.
+* `Windows Terminal - TSK Deniz Kuvvetleri Mavi.json` - Deniz Kuvvetleri ve SAT/SAS marin renkleri.
+
+![TSK Deniz Kuvvetleri Mavi](/Grafikler/Fastfetch-TSK-Deniz-Kuvvetleri-Mavi.png)
+
+- `Windows Terminal-TSK-Hava-Kuvvetleri.json` - Geleneksel taktik havacılık grileri ve uzun süreli kullanımlarda gözü dinlendiren soft aviyonik kokpit yeşili.
+
+![Hava Kuvvetleri](/Grafikler/fastfetch-TSK-Hava-Kuvvetleri.png)
+
+- `Windows Terminal - Hava Kuvvetleri - KAAN Stealth.json` - Milli Muharip Uçak KAAN ve Anka-3'ün radar sönümleyici (RAM) gövde titanyum grisi, karbon mavisinin mat gece görüş yeşiliyle uyumu.
+
+![KAAN Stealth](/Grafikler/fastfetch-TSK-Hava-Kuvvetleri-Kaan-Stealth.png)
+
+- `Windows Terminal - Hava Kuvvetleri - Kızılelma Avionics.json` - Kızılelma'nın otonom görev bilgisayarı ekranları ve radar kompozit gövde fümelerinden ilham alan mat amber ve yumuşatılmış kemik tonları.
+
+![Kızılelma Avionics](/Grafikler/fastfetch-TSK-Hava-Kuvvetleri-Kızılelma-Avionics.png)
+
+* `Windows Terminal - Bayraktar Taktik.json` - Baykar İHA/SİHA sistem arayüz ve gövde renkleri.
 
 ![Bayraktar Taktik](/Grafikler/Fastfetch-Bayraktar-Taktik.png)
 

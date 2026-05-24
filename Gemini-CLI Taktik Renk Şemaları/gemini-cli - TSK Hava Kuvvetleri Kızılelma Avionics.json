@@ -1,0 +1,25 @@
+{
+  "name": "TSK Hava Kuvvetleri - Kızılelma Avionics",
+  "text": {
+    "primary": "#EBE5D3",
+    "secondary": "#B0A999",
+    "accent": "#D9A05B",
+    "link": "#7C8C74"
+  },
+  "background": {
+    "primary": "#1D1C1A",
+    "diff": {
+      "added": "#556B2F",
+      "removed": "#9A4444"
+    }
+  },
+  "border": {
+    "default": "#66594C",
+    "focused": "#D9A05B"
+  },
+  "status": {
+    "success": "#6E8B3D",
+    "warning": "#C49A45",
+    "error": "#B55A5A"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "TSK Hava Kuvvetleri - KAAN Stealth",
+  "text": {
+    "primary": "#D5DEE5",
+    "secondary": "#9BB0C1",
+    "accent": "#5C9E89",
+    "link": "#52738E"
+  },
+  "background": {
+    "primary": "#12161A",
+    "diff": {
+      "added": "#3B7A66",
+      "removed": "#943F3F"
+    }
+  },
+  "border": {
+    "default": "#3E5165",
+    "focused": "#5C9E89"
+  },
+  "status": {
+    "success": "#5C9E89",
+    "warning": "#B09A5B",
+    "error": "#B55555"
+  }
+}

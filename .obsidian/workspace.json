@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "47d9b0c081063372",
+        "id": "7994ad115679ffaa",
         "type": "tabs",
         "children": [
           {
-            "id": "31cc420d867ad2ef",
+            "id": "83528a1ed2fcef21",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,9 +183,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "31cc420d867ad2ef",
+  "active": "4d66d920e03571bd",
   "lastOpenFiles": [
-    "Windows Terminal Taktik Renk Şemaları/README.md.md",
-    "README.md"
+    "Windows Terminal Taktik Renk Şemaları/README.md",
+    "Gemini-CLI Taktik Renk Şemaları/README.md",
+    "Gemini-CLI Taktik Renk Şemaları/gemini-cli - TSK Hava Kuvvetleri - KAAN Stealth.json",
+    "Gemini-CLI Taktik Renk Şemaları/gemini-cli - TSK Hava Kuvvetleri Kızılelma Avionics.json",
+    "Grafikler/gemini-cli-TSK-Hava-Kuvvetleri.png",
+    "README.md",
+    "Grafikler/gemini-cli-TSK Hava Kuvvetleri.png.0.pdnSave",
+    "Grafikler/gemini-cli-TSK Hava Kuvvetleri - Kaan Stealth.png.0.pdnSave",
+    "Grafikler/gemini-cli-TSK-Hava-Kuvvetleri-Kızılelma-Avionics.png",
+    "Grafikler/Fastfetch-TSK-Hava-Kuvvetleri-Kızılelme-Avionics.png.0.pdnSave",
+    "Grafikler/Fastfetch-TSK-Hava-Kuvvetleri.png.0.pdnSave",
+    "Grafikler/Fastfetch-TSK-Hava-Kuvvetleri-KAAN-Stealth.png.0.pdnSave",
+    "Grafikler/Fastfetch-TSK-Hava-Kuvvetleri-Kızılelma-Avionics.png",
+    "Grafikler/Fastfetch-TSK-Hava-Kuvvetleri-Kizilelme-Avionics.png",
+    "Grafikler/Fastfetch-TSK-Hava-Kuvvetleri-KAAN-Stealth.png",
+    "Grafikler/Fastfetch-TSK-Hava-Kuvvetleri.png",
+    "Grafikler/gemini-cli-TSK-Hava-Kuvvetleri-Kaan-Stealth.png",
+    "Grafikler/gemini-cli-TSK Hava Kuvvetleri - Kizilelma Avionics.png.0.pdnSave",
+    "Grafikler/gemini-cli-TSK Hava Kuvvetleri - Kizilelma Avionics.png",
+    "Grafikler/gemini-cli - TSK Hava Kuvvetleri - Kizilelma Avionics.png",
+    "Grafikler/gemini-cli - TSK Hava Kuvvetleri - Kizilelma Avionics.json",
+    "Gemini-CLI Taktik Renk Şemaları/gemini-cli - TSK Hava Kuvvetleri.json",
+    "Grafikler/Fastfetch-TSK-Deniz-Kuvvetleri-Mavi.png",
+    "Grafikler.md",
+    "Windows Terminal Taktik Renk Şemaları/README.md.md"
   ]
 }

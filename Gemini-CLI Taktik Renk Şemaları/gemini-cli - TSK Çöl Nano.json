@@ -1,0 +1,25 @@
+{
+  "name": "TSK Çöl Nano",
+  "text": {
+    "primary": "#EEDC82",
+    "secondary": "#F4E3B1",
+    "accent": "#C5B358",
+    "link": "#9E8E77"
+  },
+  "background": {
+    "primary": "#1F1B16",
+    "diff": {
+      "added": "#9F815B",
+      "removed": "#8C4F43"
+    }
+  },
+  "border": {
+    "default": "#857560",
+    "focused": "#DEC974"
+  },
+  "status": {
+    "success": "#BC9B6A",
+    "warning": "#D2B48C",
+    "error": "#A86557"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "TSK Kış Nano (Açık Mod)",
+  "text": {
+    "primary": "#2A2F35",
+    "secondary": "#4F5B62",
+    "accent": "#7B9095",
+    "link": "#6C7A89"
+  },
+  "background": {
+    "primary": "#F4F7F6",
+    "diff": {
+      "added": "#5E6B65",
+      "removed": "#9E4A42"
+    }
+  },
+  "border": {
+    "default": "#CBD5E1",
+    "focused": "#7B9095"
+  },
+  "status": {
+    "success": "#798A81",
+    "warning": "#B59975",
+    "error": "#BA5A50"
+  }
+}
