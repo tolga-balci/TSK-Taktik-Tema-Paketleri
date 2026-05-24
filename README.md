@@ -2,11 +2,14 @@
 
 Bu paket, **Türk Silahlı Kuvvetleri (TSK)** bünyesinde kullanılan resmi kamuflaj desenleri, renk kodları ve **Baykar Bayraktar İHA/SİHA** yer kontrol istasyonu arayüzleri esas alınarak hazırlanmış taktik renk profillerini ve ortam yapılandırmalarını içerir. Bu projenin temel amacı terminal çerçevelerini ve `gemini-cli` gibi terminal tabanlı yapay zeka/markdown motoru çıktılarını askeri gerçekçilik ile yüksek komut satırı okunabilirliğine uygun şekilde senkronize etmektir. 
 
-Temalar, askeri gerçekçilik ile komut satırı okunabilirliğini, kontrastını ve taranabilirliğini en üst düzeyde tutacak şekilde optimize edilmiştir.
+> Temalar, askeri gerçekçilik ile komut satırı okunabilirliğini, kontrastını ve taranabilirliğini en üst düzeyde tutacak şekilde optimize edilmiştir.
 
+> Temalar Milli Savunma, TSK ve yerli havacılık operasyon estetiğine uygun olarak geliştirilmiştir.
 ---
 
 ## 🎖️ Paket İçeriğindeki Temalar
+
+
 
 | Tema Adı | Operasyonel Anlayış ve İlham Kaynağı | Tasarım Modu |
 | :--- | :--- | :--- |
@@ -22,13 +25,14 @@ Temalar, askeri gerçekçilik ile komut satırı okunabilirliğini, kontrastın�
 ## 📂 Depo Dizin Yapısı ve Alt Kılavuzlar
 
 Proje mimarisi modüler olarak tasarlanmıştır. Kurulum adımları ve ilgili ham dosyalara erişmek için aşağıdaki dizin bağlantılarını kullanabilirsiniz:
-### 💻 [1. Windows Terminal Renk Şemaları (`/windows-terminal`)](./windows-terminal/)
+### 💻 1. Windows Terminal Renk Şemaları
+* [[Windows Terminal Taktik Renk Şemaları]] 
 * Windows Terminal `settings.json` profiline eklenebilecek bağımsız `.json` şemalarını ve terminal içi kurulum adımlarını içerir.
 
-### 🤖 [2. Gemini-CLI & Ortam Değişkeni Entegrasyonları (`/gemini-cli`)](./gemini-cli/)
+### 🤖 2. Gemini-CLI & Ortam Değişkeni Entegrasyonları
+* [[Gemini-CLI]]
 * `gemini-cli` ve diğer markdown tabanlı terminal CLI araçlarının renk düzeninizi ezmesini engellemek için gerekli olan **24-bit TrueColor (`$COLORTERM`)** ortam yapılandırma seçeneklerini (WSL2, PowerShell, CMD) içerir.
 
-> Milli savunma, TSK ve yerli havacılık operasyon estetiğine uygun olarak geliştirilmiştir.
 
 ## 📥 Hızlı Kurulum (Git CLI)
 
