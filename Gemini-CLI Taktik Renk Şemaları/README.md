@@ -88,4 +88,4 @@ Aşağıda, her temanın örnek görünümlerini inceleyebilirsiniz:
 
 - `gemini-cli - Bayraktar Taktik.json` - Baykar İHA/SİHA sistem arayüz ve gövde renkleri.
 
-![Bayraktar Taktik](Grafikler/gemini-cli-Bayraktar-Taktik.png)
+![Bayraktar Taktik](/Grafikler/gemini-cli-Bayraktar-Taktik.png)
